@@ -1,0 +1,7 @@
+input {
+    float: left;
+    background-color: aqua;
+}
+button {
+    float: right;
+}
